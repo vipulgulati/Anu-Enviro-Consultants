@@ -2062,4 +2062,4 @@ video {
     padding: 0;
   }
 }  
-.text-black {color:black;}
+.text-black {color:black !important;}
