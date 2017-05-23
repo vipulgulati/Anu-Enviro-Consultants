@@ -1923,9 +1923,9 @@ nav.fixed .logo-dark, .fixed nav .logo-dark {
 
 .logo img {
   margin: 0;
-  max-width: 200px;
+  max-width: 146px;
   position: relative;
-  top: 12px;
+  top: 5px;
   width: 100%;
 }
 .top-nav li a {
