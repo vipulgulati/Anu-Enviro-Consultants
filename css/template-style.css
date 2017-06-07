@@ -2064,4 +2064,5 @@ video {
 }  
 .text-black {color:black !important;}
 .text-black-li li a{color:black !important;}
-
+@media (max-width: 660px)
+	.freebirdFormviewerViewFormBanner {height:72px !important;}
